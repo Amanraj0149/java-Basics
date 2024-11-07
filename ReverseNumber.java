@@ -14,3 +14,18 @@ public class Reverse{
         sc.close();
     }
 }
+
+// import java.util.Scanner;
+// public class Reverse{
+    
+   
+//     public static void main (String[] args){
+//         Scanner sc=new Scanner(System.in);
+//        int n=sc.nextInt();
+//          StringBuilder s= new StringBuilder(Integer.toString(n));
+//          s.reverse();
+//          int ans=Integer.parseInt(s.toString());
+//        System.out.println(ans);
+//         sc.close();
+//     }
+// }
